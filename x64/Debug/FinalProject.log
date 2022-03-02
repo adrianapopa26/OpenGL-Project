@@ -1,0 +1,9 @@
+﻿  main.cpp
+E:\An3_Sem1\GP\FinalProject\main.cpp(152,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\An3_Sem1\GP\FinalProject\main.cpp(153,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\An3_Sem1\GP\FinalProject\main.cpp(157,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\An3_Sem1\GP\FinalProject\main.cpp(158,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\An3_Sem1\GP\FinalProject\main.cpp(159,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\An3_Sem1\GP\FinalProject\main.cpp(160,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\An3_Sem1\GP\FinalProject\main.cpp(327,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  FinalProject.vcxproj -> E:\An3_Sem1\GP\FinalProject\x64\Debug\FinalProject.exe
